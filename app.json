@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "p60",
+    "slug": "snack-b8bb0b5e-a1ab-4fe6-9e1b-ce47353185de",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.malharm.snackb8bb0b5ea1ab4fe69e1bce47353185de"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
